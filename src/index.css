@@ -1,0 +1,90 @@
+body {
+  background-color: #f4f4f4;
+  color: #555;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  align-items: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.switch {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.container{
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+#main-header{
+  background-color: #85b6bb;
+  color: #fff;
+}
+
+#navbar{
+  background-color: #212121;
+  color:white;
+}
+
+#navbar ul{
+  padding:0;
+  list-style: none;
+}
+
+#navbar li{
+  display: inline;
+}
+
+#navbar a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  padding-right: 15px;
+}
+
+#showcase{
+  background-position: center right;
+  background-color: #3c3c35;
+  min-height: 200px;
+  text-align: center;
+}
+
+#showcase h1{
+  color: white;
+  font-size: 40px;
+  line-height: 1.6em;
+  padding-top: 30px;
+}
+
+#showcase h2{
+  color: white;
+}
+
+#image{
+  background-position: center right;
+  background-image: url('images/haomin-bg-redteal.PNG');
+  min-height: 400px;
+  text-align: center;
+}
+
+#main-footer{
+  background-color: #85b6bb;
+  color: #fff;
+  text-align: center;
+  height: 60px;
+  padding: 15px;
+}

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23aec1d5.chunk.css",
+    "main.js": "/static/js/main.3a417db0.chunk.js",
+    "main.js.map": "/static/js/main.3a417db0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.85a5c5c8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.85a5c5c8.js.map",
+    "static/js/2.4ed67c2d.chunk.js": "/static/js/2.4ed67c2d.chunk.js",
+    "static/js/2.4ed67c2d.chunk.js.map": "/static/js/2.4ed67c2d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3f8a1c690b8972dbd196b5e9e10fe4ec.js": "/precache-manifest.3f8a1c690b8972dbd196b5e9e10fe4ec.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.23aec1d5.chunk.css.map": "/static/css/main.23aec1d5.chunk.css.map",
+    "static/js/2.4ed67c2d.chunk.js.LICENSE.txt": "/static/js/2.4ed67c2d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/haomin-bg-redteal.2e1963be.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85a5c5c8.js",
+    "static/js/2.4ed67c2d.chunk.js",
+    "static/css/main.23aec1d5.chunk.css",
+    "static/js/main.3a417db0.chunk.js"
+  ]
+}

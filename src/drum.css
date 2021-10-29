@@ -1,0 +1,14 @@
+.Drum {
+  text-align: center;
+}
+
+.relative {
+  padding: 10px;
+  position: relative;
+  background-color: #fff;
+  margin: 10px;
+ }
+
+.container{
+  text-align: left;
+}
